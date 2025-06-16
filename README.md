@@ -33,7 +33,7 @@ Processed public datasets (house prices, broadband, council tax) using **SQL**, 
 ### 🎵 Music Recommendation & Recognition  
 - 📻 Recommendation system using collaborative filtering  
 - 🎶 Song recognition using signal processing and ML  
-🛠️ Python, Numpy, Librosa, Scikit-learn  
+- 🛠️ Python, Numpy, Librosa, Scikit-learn  
 
 ### 🚗 Machine Vision for Autonomous Vehicles  
 Used Oxford Brookes ROAD dataset to classify road signs and detect driving environments via CNNs.  
