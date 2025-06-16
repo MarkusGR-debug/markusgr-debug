@@ -57,7 +57,7 @@ Used Oxford Brookes ROAD dataset to classify road signs and detect driving envir
 
 ## 🏃 Hobbies & Interests
 - 🎸 **Music** – Playing and practicing guitar to relax and sharpen creativity  
-- 🏋️ **Fitness** – Weightlifting & cardio; signed up for the England marathon  
+- 🏋️ **Fitness** – Weightlifting & cardio. 
 - 🎮 **Game Dev** – Developing games with friends using **C# & Unity**  
 - 🎬 **Video Editing** – Creating fun, informative, or experimental videos
 
@@ -65,7 +65,7 @@ Used Oxford Brookes ROAD dataset to classify road signs and detect driving envir
 
 ## 📫 Let’s Connect!
 📧 markusradu2002@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/markusradu5b7a25224)  
+🔗 [LinkedIn](https://www.linkedin.com/in/markus-radu-5b7a25224/)  
 🧠 Always open to collaboration, freelancing, or creative AI projects!
 
 <!--
