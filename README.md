@@ -22,7 +22,7 @@ A native application built for the HoloLens2 that helps visually impaired users 
 ### 🧭 Search and Rescue Robot (SLAM + A*)  
 Developed an AI strategy using Anki Cozmo to navigate and map unknown environments. Integrated SLAM and A* algorithm for optimized pathfinding.  
 📝 Based on my coursework and robotics experiments.
-📂 [View Repository](https://github.com/MarkusGR-debug/search-and-rescue-robot)
+📂 [View Repository](https://github.com/MarkusGR-debug/Search-and-Rescue-Robot-SLAM-A-Pathfinding-)
 
 ### 🌐 AI-Powered Itinerary Planner  
 Led a team project that uses AI and a Python-built chatbot to help users—especially those with disabilities—plan trips interactively. The chatbot provides route estimates, attraction info, and accessibility support.  
