@@ -29,7 +29,8 @@ Led a team project that uses AI and a Python-built chatbot to help users—espec
 🌍 Web interface: HTML/CSS/Java | AI: Python  
 
 ### 📉 Data Science on House Prices & Broadband  
-Processed public datasets (house prices, broadband, council tax) using **SQL**, **R**, and **XML**. Normalized to 3NF, created relational diagrams, and built insightful data summaries.  
+Processed public datasets (house prices, broadband, council tax) using **SQL**, **R**, and **XML**. Normalized to 3NF, created relational diagrams, and built insightful data summaries.
+📂 [Project Repo](https://github.com/MarkusGR-debug/data-science-house-prices)
 
 ### 🎵 Music Recommendation & Recognition  
 - 📻 Recommendation system using collaborative filtering  
